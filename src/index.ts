@@ -1,2 +1,2 @@
-import { englishToPersian } from "./convertToPersian";
-import { persianToEnglish } from "./ConvertToEnglish";
+export { englishToPersian } from "./convertToPersian";
+export { persianToEnglish } from "./ConvertToEnglish";
