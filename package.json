@@ -1,10 +1,10 @@
 {
-  "name": "persiannumbertools",
-  "version": "1.0.0",
+  "name": "persian-number-tools",
+  "version": "0.2.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "author": "mohammad npm",
   "license": "MIT",
