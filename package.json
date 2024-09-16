@@ -1,14 +1,16 @@
 {
   "name": "persian-number-tools",
-  "version": "0.2.0",
-  "description": "",
+  "version": "0.3.1",
+  "description": "persian-number-tools: A package for effortlessly converting numbers between Persian and English numeral systems",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test" : "vitest"
   },
   "author": "mohammad npm",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "vitest": "^2.1.1"
   }
 }
